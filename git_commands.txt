@@ -1,0 +1,13 @@
+git init
+git status
+git add .
+git log
+git commit
+git remote add origin url
+git push -u origin master
+git pull
+git pull origin master
+git pull origin master --allow-unrelated-histories #fatal: refusing to merge unrelated histories
+git pull
+git pull origin master
+git push -u origin master
